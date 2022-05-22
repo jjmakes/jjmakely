@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello!
+
+My name is John Makely. I'm a software developer with a professional background in cloud services, web engineering and data science. In my spare time, I like to play guitar and retro games. It's a pleasure to meet you!
+
+
 
 <!--
 **jjmakely/jjmakely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
